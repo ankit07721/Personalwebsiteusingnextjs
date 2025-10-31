@@ -1,4 +1,5 @@
-import SocialIcons from "./components/SocialIcons";
+"use client";
+import SocialIcons from "../components/SocialIcons";
 
 export default function Home() {
   return (

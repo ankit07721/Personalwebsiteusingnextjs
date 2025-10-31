@@ -1,7 +1,7 @@
 "use client";
 import { Divide } from "lucide-react";
 import SocialIcons from "./components/SocialIcons";
-import Homepage from "./Home-page";
+import Homepage from "./Home-page/page";
 import Navbar from "./components/Navbar";
 import About from "./about/page";
 import Skills from "./skills/page";
